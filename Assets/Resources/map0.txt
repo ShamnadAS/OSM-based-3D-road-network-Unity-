@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.6 (1769806 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="22.2611200" minlon="84.8323100" maxlat="22.2659700" maxlon="84.8380700"/>
+ <node id="1635755800" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:55Z" user="Oberaffe" uid="56597" lat="22.2605745" lon="84.8377614"/>
+ <node id="1635755819" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:55Z" user="Oberaffe" uid="56597" lat="22.2608002" lon="84.8358123"/>
+ <node id="1635755824" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:55Z" user="Oberaffe" uid="56597" lat="22.2609693" lon="84.8377100"/>
+ <node id="1635755866" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:56Z" user="Oberaffe" uid="56597" lat="22.2617813" lon="84.8353793"/>
+ <node id="1635755872" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:56Z" user="Oberaffe" uid="56597" lat="22.2618121" lon="84.8356775"/>
+ <node id="1635755878" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:56Z" user="Oberaffe" uid="56597" lat="22.2618736" lon="84.8362723"/>
+ <node id="1635755911" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:56Z" user="Oberaffe" uid="56597" lat="22.2619751" lon="84.8342808"/>
+ <node id="1635755917" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:56Z" user="Oberaffe" uid="56597" lat="22.2620080" lon="84.8375747"/>
+ <node id="1635755932" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:56Z" user="Oberaffe" uid="56597" lat="22.2620390" lon="84.8378745"/>
+ <node id="1635755933" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:57Z" user="Oberaffe" uid="56597" lat="22.2620474" lon="84.8348218"/>
+ <node id="1635755942" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:57Z" user="Oberaffe" uid="56597" lat="22.2621424" lon="84.8348582"/>
+ <node id="1635755946" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:57Z" user="Oberaffe" uid="56597" lat="22.2621914" lon="84.8353073"/>
+ <node id="1635755958" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:57Z" user="Oberaffe" uid="56597" lat="22.2622911" lon="84.8362203"/>
+ <node id="1635755969" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:57Z" user="Oberaffe" uid="56597" lat="22.2624596" lon="84.8378177"/>
+ <node id="1635755978" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:57Z" user="Oberaffe" uid="56597" lat="22.2625611" lon="84.8348046"/>
+ <node id="1635755996" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:57Z" user="Oberaffe" uid="56597" lat="22.2627092" lon="84.8361683"/>
+ <node id="1635756002" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:57Z" user="Oberaffe" uid="56597" lat="22.2627752" lon="84.8368693"/>
+ <node id="1635756020" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:58Z" user="Oberaffe" uid="56597" lat="22.2628376" lon="84.8375325"/>
+ <node id="1635756026" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:58Z" user="Oberaffe" uid="56597" lat="22.2628599" lon="84.8377637"/>
+ <node id="1635756045" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:58Z" user="Oberaffe" uid="56597" lat="22.2629588" lon="84.8347537"/>
+ <node id="1635756064" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:58Z" user="Oberaffe" uid="56597" lat="22.2631223" lon="84.8361168"/>
+ <node id="1635756069" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:50:58Z" user="Oberaffe" uid="56597" lat="22.2632842" lon="84.8377064"/>
+ <node id="1635756070" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:04Z" user="Oberaffe" uid="56597" lat="22.2632983" lon="84.8376851"/>
+ <node id="1635756072" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:04Z" user="Oberaffe" uid="56597" lat="22.2633113" lon="84.8360933"/>
+ <node id="1635756082" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:04Z" user="Oberaffe" uid="56597" lat="22.2633375" lon="84.8347052"/>
+ <node id="1635756090" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:04Z" user="Oberaffe" uid="56597" lat="22.2634929" lon="84.8360707"/>
+ <node id="1635756102" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:04Z" user="Oberaffe" uid="56597" lat="22.2635827" lon="84.8379089"/>
+ <node id="1635756122" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:05Z" user="Oberaffe" uid="56597" lat="22.2637025" lon="84.8346585"/>
+ <node id="1635756126" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:05Z" user="Oberaffe" uid="56597" lat="22.2638403" lon="84.8360274"/>
+ <node id="1635756128" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:05Z" user="Oberaffe" uid="56597" lat="22.2638430" lon="84.8361089"/>
+ <node id="1635756156" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:05Z" user="Oberaffe" uid="56597" lat="22.2640767" lon="84.8346106"/>
+ <node id="1635756170" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:05Z" user="Oberaffe" uid="56597" lat="22.2642297" lon="84.8359789"/>
+ <node id="1635756174" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:05Z" user="Oberaffe" uid="56597" lat="22.2642599" lon="84.8362342"/>
+ <node id="1635756182" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:05Z" user="Oberaffe" uid="56597" lat="22.2643339" lon="84.8368591"/>
+ <node id="1635756207" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:06Z" user="Oberaffe" uid="56597" lat="22.2644173" lon="84.8375639"/>
+ <node id="1635756210" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:06Z" user="Oberaffe" uid="56597" lat="22.2644801" lon="84.8331342"/>
+ <node id="1635756212" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:06Z" user="Oberaffe" uid="56597" lat="22.2644942" lon="84.8345572"/>
+ <node id="1635756231" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:06Z" user="Oberaffe" uid="56597" lat="22.2646346" lon="84.8359285"/>
+ <node id="1635756233" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:06Z" user="Oberaffe" uid="56597" lat="22.2646651" lon="84.8345353"/>
+ <node id="1635756253" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:06Z" user="Oberaffe" uid="56597" lat="22.2648149" lon="84.8375090"/>
+ <node id="1635756259" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:06Z" user="Oberaffe" uid="56597" lat="22.2648455" lon="84.8359022"/>
+ <node id="1635756265" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:06Z" user="Oberaffe" uid="56597" lat="22.2649894" lon="84.8369922"/>
+ <node id="1635756268" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:06Z" user="Oberaffe" uid="56597" lat="22.2650552" lon="84.8374758"/>
+ <node id="1635756286" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:06Z" user="Oberaffe" uid="56597" lat="22.2652544" lon="84.8389386"/>
+ <node id="1635756346" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:07Z" user="Oberaffe" uid="56597" lat="22.2657967" lon="84.8430399"/>
+ <node id="1635756360" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:07Z" user="Oberaffe" uid="56597" lat="22.2659356" lon="84.8441363"/>
+ <node id="1635756367" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:07Z" user="Oberaffe" uid="56597" lat="22.2660336" lon="84.8449103"/>
+ <node id="1635756369" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:07Z" user="Oberaffe" uid="56597" lat="22.2660683" lon="84.8451846"/>
+ <node id="1635756373" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:07Z" user="Oberaffe" uid="56597" lat="22.2661161" lon="84.8455616"/>
+ <node id="1635756503" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:07Z" user="Oberaffe" uid="56597" lat="22.2662811" lon="84.8468651"/>
+ <node id="1635756532" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:07Z" user="Oberaffe" uid="56597" lat="22.2668170" lon="84.8477065"/>
+ <node id="1635756577" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:08Z" user="Oberaffe" uid="56597" lat="22.2674657" lon="84.8487615"/>
+ <node id="1635756650" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:08Z" user="Oberaffe" uid="56597" lat="22.2684743" lon="84.8503899"/>
+ <node id="1635756673" visible="true" version="2" changeset="14935530" timestamp="2013-02-06T16:51:08Z" user="Oberaffe" uid="56597" lat="22.2687721" lon="84.8504313"/>
+ <way id="150687743" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:31:55Z" user="Oberaffe" uid="56597">
+  <nd ref="1635756259"/>
+  <nd ref="1635756231"/>
+  <nd ref="1635756170"/>
+  <nd ref="1635756126"/>
+  <nd ref="1635756090"/>
+  <nd ref="1635756072"/>
+  <nd ref="1635756064"/>
+  <nd ref="1635755996"/>
+  <nd ref="1635755958"/>
+  <nd ref="1635755878"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="150687764" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:31:57Z" user="Oberaffe" uid="56597">
+  <nd ref="1635756210"/>
+  <nd ref="1635756233"/>
+  <nd ref="1635756259"/>
+  <nd ref="1635756265"/>
+  <nd ref="1635756268"/>
+  <nd ref="1635756286"/>
+  <nd ref="1635756346"/>
+  <nd ref="1635756360"/>
+  <nd ref="1635756367"/>
+  <nd ref="1635756369"/>
+  <nd ref="1635756373"/>
+  <nd ref="1635756503"/>
+  <nd ref="1635756532"/>
+  <nd ref="1635756577"/>
+  <nd ref="1635756650"/>
+  <nd ref="1635756673"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="150687777" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:32:00Z" user="Oberaffe" uid="56597">
+  <nd ref="1635756090"/>
+  <nd ref="1635756082"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="150687784" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:32:00Z" user="Oberaffe" uid="56597">
+  <nd ref="1635756002"/>
+  <nd ref="1635756072"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="150687807" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:32:02Z" user="Oberaffe" uid="56597">
+  <nd ref="1635755996"/>
+  <nd ref="1635755978"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="150687850" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:32:07Z" user="Oberaffe" uid="56597">
+  <nd ref="1635755872"/>
+  <nd ref="1635755819"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="150687852" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:32:08Z" user="Oberaffe" uid="56597">
+  <nd ref="1635756064"/>
+  <nd ref="1635756045"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="150687861" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:32:09Z" user="Oberaffe" uid="56597">
+  <nd ref="1635755946"/>
+  <nd ref="1635755866"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="150687888" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:32:12Z" user="Oberaffe" uid="56597">
+  <nd ref="1635756126"/>
+  <nd ref="1635756122"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="150687900" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:32:14Z" user="Oberaffe" uid="56597">
+  <nd ref="1635756268"/>
+  <nd ref="1635756253"/>
+  <nd ref="1635756207"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="150687908" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:32:15Z" user="Oberaffe" uid="56597">
+  <nd ref="1635756182"/>
+  <nd ref="1635756102"/>
+  <nd ref="1635756070"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="150687921" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:32:16Z" user="Oberaffe" uid="56597">
+  <nd ref="1635756253"/>
+  <nd ref="1635756231"/>
+  <nd ref="1635756212"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="150687950" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:32:19Z" user="Oberaffe" uid="56597">
+  <nd ref="1635755911"/>
+  <nd ref="1635755933"/>
+  <nd ref="1635755942"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="150687967" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:32:21Z" user="Oberaffe" uid="56597">
+  <nd ref="1635756020"/>
+  <nd ref="1635756128"/>
+  <nd ref="1635756126"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="150687970" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:32:21Z" user="Oberaffe" uid="56597">
+  <nd ref="1635756174"/>
+  <nd ref="1635756070"/>
+  <nd ref="1635756069"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="150687996" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:32:24Z" user="Oberaffe" uid="56597">
+  <nd ref="1635755917"/>
+  <nd ref="1635755824"/>
+  <nd ref="1635755800"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="150688032" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:32:26Z" user="Oberaffe" uid="56597">
+  <nd ref="1635755969"/>
+  <nd ref="1635755958"/>
+  <nd ref="1635755946"/>
+  <nd ref="1635755942"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="150688062" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:32:31Z" user="Oberaffe" uid="56597">
+  <nd ref="1635756069"/>
+  <nd ref="1635756026"/>
+  <nd ref="1635755969"/>
+  <nd ref="1635755932"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="150688066" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:32:31Z" user="Oberaffe" uid="56597">
+  <nd ref="1635756026"/>
+  <nd ref="1635756020"/>
+  <nd ref="1635756002"/>
+  <nd ref="1635755996"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="150688089" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:32:34Z" user="Oberaffe" uid="56597">
+  <nd ref="1635755932"/>
+  <nd ref="1635755917"/>
+  <nd ref="1635755878"/>
+  <nd ref="1635755872"/>
+  <nd ref="1635755866"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="150688095" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:32:35Z" user="Oberaffe" uid="56597">
+  <nd ref="1635756207"/>
+  <nd ref="1635756182"/>
+  <nd ref="1635756174"/>
+  <nd ref="1635756170"/>
+  <nd ref="1635756156"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="150688142" visible="true" version="1" changeset="10706121" timestamp="2012-02-16T21:32:41Z" user="Oberaffe" uid="56597">
+  <nd ref="1635756233"/>
+  <nd ref="1635756212"/>
+  <nd ref="1635756156"/>
+  <nd ref="1635756122"/>
+  <nd ref="1635756082"/>
+  <nd ref="1635756045"/>
+  <nd ref="1635755978"/>
+  <nd ref="1635755942"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+</osm>
